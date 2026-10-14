@@ -32,3 +32,4 @@ code { background: #0f172a; padding: 2px 6px; border-radius: 6px; }
 ul { padding-left: 22px; }
 .lang-block { margin-top: 30px; }
 .notice { border-left: 4px solid var(--accent); padding-left: 16px; }
+.button{display:inline-block;background:#60a5fa;color:#081120;padding:12px 20px;border-radius:12px;font-weight:700}.button:hover{background:#93c5fd;text-decoration:none}.feature-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}.card h2:first-child{margin-top:0}.membership{border-color:#b99545}a:focus-visible{outline:3px solid #fbbf24;outline-offset:4px}header{z-index:10}@media(max-width:640px){nav{align-items:flex-start;flex-direction:column;gap:10px}.hero{padding-top:40px}.feature-grid{grid-template-columns:1fr;gap:0}.card{padding:20px}code{overflow-wrap:anywhere}}
